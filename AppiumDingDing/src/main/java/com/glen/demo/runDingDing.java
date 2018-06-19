@@ -4,9 +4,6 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import org.junit.After;
 import org.junit.Before;
-//import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -14,13 +11,19 @@ import org.testng.annotations.Test;
 
 import java.io.File;
 import java.net.URL;
-import java.util.List;
 
-public class runDing {
+//import org.junit.Test;
+
+public class runDingDing {
     private static AppiumDriver driver;
 
     @Before
     public void setUp() throws Exception {
+
+    }
+
+    @Test
+    public void addContact()throws Exception{
         //设置apk的路径,如果appium中设置后不需设置
         File classpathRoot = new File(System.getProperty("user.dir"));
         File appDir = new File(classpathRoot, "apps");
@@ -46,10 +49,7 @@ public class runDing {
 
         //初始化
         driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),capabilities);
-    }
 
-    @Test
-    public void addContact(){
         WebDriverWait wait = new WebDriverWait(driver, 100);
 //        WebElement el = driver.findElement(By.className("android.widget.RelativeLayout"));
 //        WebElement element = driver.findElement(By.id("com.alibaba.android.rimet:id/home_bottom_tab_text"));

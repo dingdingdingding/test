@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="26" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0" vertical-offset="508" max-vertical-offset="1577">
+            <state line="85" column="27" selection-start="2746" selection-end="2746" vertical-scroll-proportion="3.2959185" vertical-offset="0" max-vertical-offset="1957">
               <folding />
             </state>
           </provider>
@@ -96,7 +96,7 @@
       <file leaf-file-name="runDingDing.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/glen/demo/runDingDing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="21" selection-start="2159" selection-end="2170" vertical-scroll-proportion="0.0" vertical-offset="678" max-vertical-offset="1520">
+            <state line="60" column="58" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.0" vertical-offset="678" max-vertical-offset="1520">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,10 +104,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="testng.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="36" selection-start="366" selection-end="366" vertical-scroll-proportion="0.2348901" vertical-offset="0" max-vertical-offset="728">
+            <state line="9" column="36" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
               <folding />
             </state>
           </provider>
@@ -162,11 +162,11 @@
         <option value="$PROJECT_DIR$/src/main/java/run.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/glen/demo/run.java" />
         <option value="$PROJECT_DIR$/src/main/resources/testng.xml.xsl" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/glen/demo/runDing.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/glen/demo/runDing_bak.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/glen/demo/runDingDing.java" />
         <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -254,10 +254,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="AppiumDingDing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -831,16 +827,16 @@
       <workItem from="1527650620715" duration="15378000" />
       <workItem from="1528856783407" duration="5146000" />
       <workItem from="1529043659836" duration="3698000" />
-      <workItem from="1529389870165" duration="1707000" />
+      <workItem from="1529389870165" duration="5323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43055000" />
+    <option name="totallyTimeSpent" value="46671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -851,7 +847,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17576419" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41157204" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -859,10 +855,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22748499" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22738095" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20476191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17576419" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25892857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41157204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1120,13 +1116,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="26" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0" vertical-offset="508" max-vertical-offset="1577">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/glen/demo/run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="71" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1349">
@@ -1143,18 +1132,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/glen/demo/runDingDing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="21" selection-start="2159" selection-end="2170" vertical-scroll-proportion="0.0" vertical-offset="678" max-vertical-offset="1520">
+        <state line="60" column="58" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.0" vertical-offset="678" max-vertical-offset="1520">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="36" selection-start="366" selection-end="366" vertical-scroll-proportion="0.2348901" vertical-offset="0" max-vertical-offset="728">
+        <state line="85" column="27" selection-start="2746" selection-end="2746" vertical-scroll-proportion="3.2959185" vertical-offset="0" max-vertical-offset="1957">
           <folding />
         </state>
       </provider>

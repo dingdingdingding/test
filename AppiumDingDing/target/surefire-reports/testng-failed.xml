@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Simple Logger Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Simple Logger test(failed)">
+    <classes>
+      <class name="com.glen.demo.runDingDing">
+        <methods>
+          <include name="addContact"/>
+        </methods>
+      </class> <!-- com.glen.demo.runDingDing -->
+    </classes>
+  </test> <!-- Simple Logger test(failed) -->
+</suite> <!-- Failed suite [Simple Logger Suite] -->

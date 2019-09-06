@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.109 sec <<< FAILURE! - in TestSuite
+addContact(com.glen.demo.runDingDing)  Time elapsed: 2.03 sec  <<< FAILURE!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'AT11771', ip: '10.168.149.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: AndroidDriver
+	at com.glen.demo.runDingDing.addContact(runDingDing.java:51)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+	at com.glen.demo.runDingDing.addContact(runDingDing.java:51)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at com.glen.demo.runDingDing.addContact(runDingDing.java:51)
+
